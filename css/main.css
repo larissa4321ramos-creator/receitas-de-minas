@@ -1,5 +1,63 @@
-p {
-    color:rgb(250, 13, 13);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+h1 {
+    color:rgb(209, 112, 204);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35pt;
+    background-color:rgb(245, 211, 248);
+    height: 100px;
+    padding-left: 590px;
+}
+h2 {
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22pt;
+}
+button {
+    color: black;
+    background-color: #f7c6e4;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+}
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 13pt;
+}
+ul li::marker {
+color: #ffbbe5;
+}
+
+h3 {font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+h3 {
+    font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13pt;
+}
+ol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13pt;
+}
+ol li::marker {
+    color:#e498c7;
+}
+h3 {
+    font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+    color: black;
+    background-color: #f7c6e4;
 }
